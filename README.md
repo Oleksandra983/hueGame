@@ -6,6 +6,6 @@ In Hue player is supposed to create the correct gradient by moving the colorful 
 To move a square player should click the square they want to move. Then they click the place where they want to move the square (it has to be another square).
 Every square player moves is getting bigger in size once clicked and until player clicks the place where they want to move it.
 
-My project consists of 3 pages: startpage, main, endpage. It is better to start the game on startpage by pressing Play button. When the Play button is pressed, player is automatically directed to main page, where they play the game. When the game is won (all the squares are put to correct places), the gradient becomes seamless and the endpage opens. On the endpage the player gets notified they won. It is possible to start the game again from endpage by clicking Play again button.
+There are 3 pages: startpage, main, endpage. It is better to start the game on startpage by pressing Play button. When the Play button is pressed, player is automatically directed to main page, where they play the game. When the game is won (all the squares are put to correct places), the gradient becomes seamless and the endpage opens. On the endpage the player gets notified they won. It is possible to start the game again from endpage by clicking Play again button.
 All of the buttons are emphasized when a player's mouse hovers over them (Play and Play again button).
 
