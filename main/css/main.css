@@ -1,0 +1,41 @@
+body{
+    margin-top: 40px;
+    text-align: center;
+}
+
+#row1 div, #row2 div, #row3 div, #row4 div, #row5 div, #row6 div{
+    cursor: pointer;
+    display: inline-block;
+    height: 100px;
+    transition: width 0.1s 0s;
+    width: 100px;
+}
+
+div.row div{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+#row1 div{
+    background-color: #2d23cf;
+}
+
+.h2{
+    background-color: #2742d3;
+}
+
+.h3{
+    background-color: #2065d8;
+}
+
+.h4{
+    background-color: #178edd;
+}
+
+.h5{
+    background-color: #0bc9e4;
+}
+
+#row6 div{
+    background-color: #00ffeb;
+}

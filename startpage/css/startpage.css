@@ -1,0 +1,36 @@
+body{
+    background-image: url('../img/background.svg');
+    background-size: 100%;
+    margin-top: 150px;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 150px;
+    margin-bottom: -15px;
+}
+
+h1, p, button{
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+p{
+    color: white;
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+
+button{
+    background-color: #09f084;
+    border-style: none;
+    color: white;
+    font-size: 22px;
+    height: 60px;
+    text-align: center;
+    width: 110px;
+}
+
+button:hover{
+    background-color: #00ffaa;
+}
